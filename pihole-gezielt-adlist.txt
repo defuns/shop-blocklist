@@ -1,4 +1,5 @@
 # K-Tipp Internetshops: eigene Auswahl nach Warnlisteneintraegen
+# https://www.ktipp.ch/service/warnlisten/detail/warnliste/internetshops
 # Stand 2026-10-17; kein Betrugsnachweis; statische Momentaufnahme
 # Format: ABP-Domainregeln, inklusive Subdomains
 ||adrume.ch^
