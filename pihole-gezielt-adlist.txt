@@ -1,0 +1,35 @@
+# K-Tipp Internetshops: eigene Auswahl nach Warnlisteneintraegen
+# Stand 2026-10-17; kein Betrugsnachweis; statische Momentaufnahme
+# Format: ABP-Domainregeln, inklusive Subdomains
+||adrume.ch^
+||anna-atelier.com^
+||bestduka.com^
+||bonidashop.ch^
+||coko.ch^
+||cubeschweiz.com^
+||deluxo.ch^
+||dunumpop.shop^
+||ecommerce-welt.ch^
+||enders-boutique.de^
+||eversmartproducts.ch^
+||face-shop.ch^
+||gourmet-meister.com^
+||heute-einkaufen.ch^
+||inspirakus.com^
+||kaleaa.ch^
+||lumori.de^
+||marly-zurich.com^
+||meine-haare.ch^
+||modehunziker.ch^
+||nano-cast.de^
+||novasta.ch^
+||pekiclub.com^
+||pfotenland.ch^
+||rovena.ch^
+||streamgym.today^
+||taylorgents.ch^
+||tesup.com^
+||trend-box.ch^
+||wish.ch^
+||yassoldes.com^
+||yoho.ch^
