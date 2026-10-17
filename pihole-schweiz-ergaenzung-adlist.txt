@@ -1,0 +1,97 @@
+# Schweiz: Shop- und Phishing-Warnliste | Ergaenzung
+# Stand: 2026-10-17 | Eintraege: 41
+# Zweck: zusaetzliche gewarnte Shops und markenaehnliche Domains mit CH-Bezug.
+# Abgleich: keine Ueberschneidung mit den am 17.10.2026 gelesenen
+# GitHub-Listen pihole-gezielt-adlist.txt und pihole-strikt-adlist.txt.
+# Grundlage: jeder Eintrag hat eine direkt gelesene Schweizer Polizeiwarnung.
+# Warnstatus: Nutzermeldungen zu verdaechtigen Aktivitaeten; kein Strafurteil.
+# Keine frei erfundenen Tippfehler, keine pauschalen Marken-Wildcards.
+# 11 Live-Stichproben; bei Fehlern ist die heutige Weiterleitung unbestimmt.
+# Nicht live gepruefte Domains bleiben als historische Warnindikatoren enthalten.
+# Format: ||domain^ blockiert Hauptdomain und saemtliche Subdomains.
+# Verwendung: diese TXT als RAW-URL unter Pi-hole Listen/Adlists abonnieren.
+# Keine offizielle oder vollstaendige Polizeiliste. Statische Momentaufnahme.
+# Dokumentation und alle Quellen: README-schweiz-ergaenzung.md
+
+# Warnung: 07 Juli 2026 | https://cybercrimepolice.ch/de/warnliste/account-swisspass-com
+||account-swisspass.com^
+# Warnung: 07 Mai 2026 | https://cybercrimepolice.ch/de/warnliste/adidassamba-schweiz-com
+||adidassamba-schweiz.com^
+# Warnung: 26 März 2026 | https://cybercrimepolice.ch/de/warnliste/aeropresschweiz-com
+||aeropresschweiz.com^
+# Warnung: 02 September 2025 | https://cybercrimepolice.ch/de/warnliste/airupschweiz-com
+||airupschweiz.com^
+# Warnung: 20 April 2026 | https://cybercrimepolice.ch/de/warnliste/asics-schweiz-com
+||asics-schweiz.com^
+# Warnung: 15 Oktober 2026 | https://cybercrimepolice.ch/de/warnliste/automatisierungshop-com
+||automatisierungshop.com^
+# Warnung: 17 Dezember 2025 | https://cybercrimepolice.ch/de/warnliste/birkenstockschweiz-com
+||birkenstockschweiz.com^
+# Warnung: 15 Mai 2026 | https://cybercrimepolice.ch/de/warnliste/blundstoneschweiz-com
+||blundstoneschweiz.com^
+# Warnung: 27 August 2026 | https://cybercrimepolice.ch/de/warnliste/coops-delivery
+||coops.delivery^
+# Warnung: 12 Januar 2026 | https://cybercrimepolice.ch/de/warnliste/deichmannschweiz-com
+||deichmannschweiz.com^
+# Warnung: 26 Februar 2026 | https://cybercrimepolice.ch/de/warnliste/delonghischweiz-com
+||delonghischweiz.com^
+# Warnung: 29 Dezember 2025 | https://cybercrimepolice.ch/de/warnliste/dragonball-schweiz-com
+||dragonball-schweiz.com^
+# Warnung: 01 Oktober 2026 | https://cybercrimepolice.ch/de/warnliste/dreo-schweiz-com
+||dreo-schweiz.com^
+# Warnung: 29 September 2026 | https://cybercrimepolice.ch/de/warnliste/ecorep-shop-ch
+||ecorep-shop.ch^
+# Warnung: 30 März 2026 | https://cybercrimepolice.ch/de/warnliste/eufyschweiz-com
+||eufyschweiz.com^
+# Warnung: 26 März 2026 | https://cybercrimepolice.ch/de/warnliste/garminschweiz-com
+||garminschweiz.com^
+# Warnung: 17 Dezember 2025 | https://cybercrimepolice.ch/de/warnliste/goproschweiz-com
+||goproschweiz.com^
+# Warnung: 15 Oktober 2026 | https://cybercrimepolice.ch/de/warnliste/kaffeemachers-shop
+||kaffeemachers.shop^
+# Warnung: 15 Oktober 2026 | https://cybercrimepolice.ch/de/warnliste/kiffeemacher-com
+||kiffeemacher.com^
+# Warnung: 06 August 2026 | https://cybercrimepolice.ch/de/warnliste/kofaxshop-com
+||kofaxshop.com^
+# Warnung: 06 August 2026 | https://cybercrimepolice.ch/de/warnliste/kofaxstoreshop-com
+||kofaxstoreshop.com^
+# Warnung: 17 Dezember 2025 | https://cybercrimepolice.ch/de/warnliste/lecreusetschweiz-com
+||lecreusetschweiz.com^
+# Warnung: 23 März 2026 | https://cybercrimepolice.ch/de/warnliste/logitechschweiz-com
+||logitechschweiz.com^
+# Warnung: 09 Juli 2025 | https://cybercrimepolice.ch/de/warnliste/lululemoschweiz-shop
+||lululemoschweiz.shop^
+# Warnung: 04 Juni 2026 | https://cybercrimepolice.ch/de/warnliste/mbtschweiz-com
+||mbtschweiz.com^
+# Warnung: 02 März 2026 | https://cybercrimepolice.ch/de/warnliste/nespresso-schweiz-com
+||nespresso-schweiz.com^
+# Warnung: 25 August 2025 | https://cybercrimepolice.ch/de/warnliste/oakleyschweiz-com
+||oakleyschweiz.com^
+# Warnung: 09 Februar 2026 | https://cybercrimepolice.ch/de/warnliste/oonischweiz-com
+||oonischweiz.com^
+# Warnung: 29 Dezember 2025 | https://cybercrimepolice.ch/de/warnliste/polaroidschweiz-com
+||polaroidschweiz.com^
+# Warnung: 14 September 2026 | https://cybercrimepolice.ch/de/warnliste/ringschweiz-com
+||ringschweiz.com^
+# Warnung: 20 April 2026 | https://cybercrimepolice.ch/de/warnliste/sandiskschweiz-com
+||sandiskschweiz.com^
+# Warnung: 02 Juli 2026 | https://cybercrimepolice.ch/de/warnliste/sbbswiss-org
+||sbbswiss.org^
+# Warnung: 17 Dezember 2025 | https://cybercrimepolice.ch/de/warnliste/sonosschweiz-com
+||sonosschweiz.com^
+# Warnung: 05 Januar 2026 | https://cybercrimepolice.ch/de/warnliste/spigenschweiz-com
+||spigenschweiz.com^
+# Warnung: 17 Dezember 2025 | https://cybercrimepolice.ch/de/warnliste/thenorthface-schweiz-com
+||thenorthface-schweiz.com^
+# Warnung: 01 Juni 2026 | https://cybercrimepolice.ch/de/warnliste/theordinary-schweiz-com
+||theordinary-schweiz.com^
+# Warnung: 09 Juli 2025 | https://cybercrimepolice.ch/de/warnliste/timberlandschweiz-com
+||timberlandschweiz.com^
+# Warnung: 09 Februar 2026 | https://cybercrimepolice.ch/de/warnliste/tommyhilfigerschweiz-com
+||tommyhilfigerschweiz.com^
+# Warnung: 19 Februar 2026 | https://cybercrimepolice.ch/de/warnliste/tonies-schweiz-com
+||tonies-schweiz.com^
+# Warnung: 15 Oktober 2026 | https://cybercrimepolice.ch/de/warnliste/unilqochschweiz-com
+||unilqochschweiz.com^
+# Warnung: 13 April 2026 | https://cybercrimepolice.ch/de/warnliste/uniqlosschweiz-com
+||uniqlosschweiz.com^
